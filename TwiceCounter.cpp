@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-	//code
 	int test;
 	cin >> test;
 	
